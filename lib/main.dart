@@ -127,3 +127,5 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
+
+//once() which returns a Future<DataSnapshot> to the future property, this will retrieve the data only once.
